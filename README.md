@@ -1,5 +1,6 @@
 # Human-Resource-DashBoard
-##Key Features
+Key Features
+
 -- Monitor employee performance metrics
 -- Assess employee satisfaction and engagement
 -- Visualize Total Employee Count
